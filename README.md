@@ -8,7 +8,7 @@ Final assignment for Deep Machine Learning, finetuning a BERT model for a (binar
 MAC
 ```source <path to venv>/bin/activate```
 Windows
-```./env/Scripts/activate```
+```.\env\Scripts\activate```
 
 ```pip install -r requirements.txt``` (Does not include pytorch)
 
