@@ -1,4 +1,8 @@
 **/venv
 **/env
 **/model
+**/models
 **/tokenizer
+embeddings_cased.npz
+src/*.pt
+test_fixed.ipynb
